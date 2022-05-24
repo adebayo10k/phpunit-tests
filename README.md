@@ -1,2 +1,2 @@
 # phpunit-tests
-Using PHPUnit
+Unit testing PHP using PHPUnit
